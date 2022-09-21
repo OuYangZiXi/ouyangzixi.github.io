@@ -1,26 +1,11 @@
-## Welcome to GitHub Pages
+欢迎来到欧阳梓熙（Ouyang Zixi）的个人网页，我会不定期更新关于理论物理的学习笔记。
 
-You can use the [editor on GitHub](https://github.com/coffee-ne/wuyanne.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+#### 个人简介
+>中山大学 物理学院 本科在读（Undergraduate in [School of Physics](https://spe.sysu.edu.cn/), [Sun Yat-sen University](https://www.sysu.edu.cn/)）
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+>中国科学院大学 物理科学学院 博士未读（May be PhD? in [School of Physical Science](https://physics.ucas.edu.cn/), [University of Chinese Academy of Sciences](https://www.ucas.ac.cn/)）
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
+## QCD求和（QCD Sum Rules）规则笔记
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
