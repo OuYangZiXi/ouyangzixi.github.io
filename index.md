@@ -9,3 +9,4 @@
 
 ## QCD求和（QCD Sum Rules）规则笔记
 
+[^_^]: # 帮助文档https://docs.github.com/cn/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
