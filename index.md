@@ -6,9 +6,9 @@
 
 ### 个人简介
 
-&emsp;&emsp;**中山大学 物理学院 本科**在读（Undergraduate in [School of Physics](https://spe.sysu.edu.cn/), [SYSU](https://www.sysu.edu.cn/)）
+&emsp;&emsp;**中山大学 物理学院 本科**（Undergraduate in [School of Physics](https://spe.sysu.edu.cn/), [SYSU](https://www.sysu.edu.cn/)）
 
-&emsp;&emsp;**中国科学院大学 物理科学学院** 不知道会读什么（Nothing in [School of Physical Science](https://physics.ucas.edu.cn/), [UCAS](https://www.ucas.ac.cn/)）
+&emsp;&emsp;**中国科学院大学 物理科学学院** 理论物理博士（PhD in [School of Physical Science](https://physics.ucas.edu.cn/), [UCAS](https://www.ucas.ac.cn/)）
 
 ## 一、QCD求和（QCD Sum Rules）规则笔记
 
