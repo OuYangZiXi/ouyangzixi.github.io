@@ -1,4 +1,4 @@
-[^_^]: # 帮助文档https://docs.github.com/cn/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+[^_^]: # 帮助网站https://docs.github.com/cn/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
 <img src="https://img1.baidu.com/it/u=182856406,3965187150&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=533" width = 20% height = 20% div align=right />
 
@@ -31,7 +31,6 @@
 
 &emsp;&emsp;**4. 应用例子：[Λ粒子质量的计算](https://github.com/OuYangZiXi/OuYangZiXi.github.io/blob/main/QCDSumRulesNotes/Lambda%E7%B2%92%E5%AD%90%E8%B4%A8%E9%87%8F%E8%AE%A1%E7%AE%97.pdf)**
 
-[<img src="https://github.com/OuYangZiXi/OuYangZiXi.github.io/blob/main/Image/Logo_pdf.jpeg" width = 5% height = 5% div align=right />](https://raw.githubusercontent.com/OuYangZiXi/OuYangZiXi.github.io/main/Image/Logo_pdf.jpeg)
 &emsp;&emsp;状态：基本完成。计算很粗糙，很多图没有算进去，还没有选Borel变换的窗口，等再完整地学第二次QCD Sum Rule的Feynman规则再改吧。（需要remake上面第一条：背景场方法）
 
 
