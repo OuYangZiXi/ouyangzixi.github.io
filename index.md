@@ -2,7 +2,7 @@
 
 <img src="https://img1.baidu.com/it/u=182856406,3965187150&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=533" width = 20% height = 20% div align=right />
 
-欢迎来到欧阳梓熙（Ouyang Zixi）的个人网页，我会不定期更新关于理论物理的学习笔记。
+欢迎新朋友！我会不定期更新关于理论物理的学习笔记。邮箱：ouyzx6@mail2.sysu.edu.cn
 
 ### 个人简介
 
