@@ -29,7 +29,7 @@
 &emsp;&emsp;状态：在写。在学，还没学明白，越学越觉得自己好菜呜呜呜。
 
 
-&emsp;&emsp;**4. 应用例子：**[$$\Lambda$$**粒子质量的计算](https://github.com/OuYangZiXi/OuYangZiXi.github.io/blob/main/QCDSumRulesNotes/Lambda%E7%B2%92%E5%AD%90%E8%B4%A8%E9%87%8F%E8%AE%A1%E7%AE%97.pdf)**
+&emsp;&emsp;**4. 应用例子：[Λ粒子质量的计算](https://github.com/OuYangZiXi/OuYangZiXi.github.io/blob/main/QCDSumRulesNotes/Lambda%E7%B2%92%E5%AD%90%E8%B4%A8%E9%87%8F%E8%AE%A1%E7%AE%97.pdf)**
 
 [<img src="https://github.com/OuYangZiXi/OuYangZiXi.github.io/blob/main/Image/Logo_pdf.jpeg" width = 5% height = 5% div align=right />](https://raw.githubusercontent.com/OuYangZiXi/OuYangZiXi.github.io/main/Image/Logo_pdf.jpeg)
 &emsp;&emsp;状态：基本完成。计算很粗糙，很多图没有算进去，还没有选Borel变换的窗口，等再完整地学第二次QCD Sum Rule的Feynman规则再改吧。（需要remake上面第一条：背景场方法）
@@ -37,7 +37,7 @@
 
 &emsp;&emsp;**5. 双重子系统**
 
-&emsp;&emsp;状态：在写。刚开了个头，等学会了构造流之后再来写。组分为$$udsuds$$，构造之一为$$\Lambda\Lambda$$。
+&emsp;&emsp;状态：在写。刚开了个头，等学会了构造流之后再来写。夸克组分为udsuds，构造之一为ΛΛ。
 
 
 &emsp;&emsp;**最后——[数学技巧](https://github.com/OuYangZiXi/OuYangZiXi.github.io/blob/main/QCDSumRulesNotes/%E6%95%B0%E5%AD%A6%E6%8A%80%E5%B7%A7.pdf)**
