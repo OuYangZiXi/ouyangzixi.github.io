@@ -1,1 +1,3 @@
-这里是 QCD Sum Rules 的笔记pdf文件
+这里是量子色动力学求和规则的笔记。
+
+All notes about QCD Sum Rules are here!
