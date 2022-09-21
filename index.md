@@ -1,4 +1,4 @@
-![可可爱爱的小黄人](/Minions.jpeg)
+![可可爱爱的小黄人](https://github.com/OuYangZiXi/main/Minions.jpeg)
 
 欢迎来到欧阳梓熙（Ouyang Zixi）的个人网页，我会不定期更新关于理论物理的学习笔记。
 
