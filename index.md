@@ -6,14 +6,12 @@
 
 ### 个人简介
 
-&emsp;&emsp;**中山大学 物理学院 本科**（Undergraduate in [School of Physics](https://spe.sysu.edu.cn/), [SYSU](https://www.sysu.edu.cn/)）
+&emsp;&emsp;**中山大学 物理学院 本科**在读（Undergraduate in [School of Physics](https://spe.sysu.edu.cn/), [SYSU](https://www.sysu.edu.cn/)）
 
-&emsp;&emsp;**中国科学院大学 物理科学学院** 理论物理博士（PhD in [School of Physical Science](https://physics.ucas.edu.cn/), [UCAS](https://www.ucas.ac.cn/)）
+&emsp;&emsp;**中国科学院大学 物理科学学院** 应该可能或许会读理论物理吧（Nothing in [School of Physical Science](https://physics.ucas.edu.cn/), [UCAS](https://www.ucas.ac.cn/)）
 
 ## 一、QCD求和（QCD Sum Rules）规则笔记
 
->点击阅读或者下载
-  
 &emsp;&emsp;**1. [背景场方法](https://github.com/OuYangZiXi/OuYangZiXi.github.io/blob/main/QCDSumRulesNotes/%E8%83%8C%E6%99%AF%E5%9C%BA%E6%96%B9%E6%B3%95.pdf)**
 
 &emsp;&emsp;状态：空白。有时间再完整地学一遍，但也有可能不写了，因为书上都有。
