@@ -38,6 +38,7 @@
 
 
 &emsp;&emsp;**最后——[数学技巧](https://github.com/OuYangZiXi/OuYangZiXi.github.io/blob/main/QCDSumRulesNotes/%E6%95%B0%E5%AD%A6%E6%8A%80%E5%B7%A7.pdf)**
+
 &emsp;&emsp;状态：已完成。
   
   
